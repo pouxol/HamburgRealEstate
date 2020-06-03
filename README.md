@@ -1,4 +1,4 @@
-# BerlinAirbnb
+# HamburgRealEstate
 Hamburg Appartement Market Data Analysis and Modelling
 
 [Blog Post on Medium.com](https...)
