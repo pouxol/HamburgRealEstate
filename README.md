@@ -1,7 +1,7 @@
 # HamburgRealEstate
-Hamburg Appartement Market Data Analysis and Modelling
+Hamburg Appartement Market Data Analysis and Modeling
 
-[Blog Post on Medium.com](https...)
+[Blog Post on Medium.com](https://link.medium.com/I8QVobuI46 )
 
 ## Project Motivation
 As a long-time resident I have been watching the appartement market in Hamburg for a long time.
@@ -22,7 +22,7 @@ I analyzed the coefficients of the trained model to find out the impact of diffe
 
 ### Neighbourhood
 The neighbourhoods **"HafenCity"**, **"Harvestehude"** and **"Uhlenhorts"** have the highest positive impact on the price.
-The neighbourhoods **"Heimfeld"**, **"Moorrege"** and **"Langenbek"** have the highest negative impact on the price.
+The neighbourhoods **"Heimfeld"**, **"Moorrege"** and **"Seeth-Ekholt"** have the highest negative impact on the price.
 
 ### Living Space and Number of Rooms
 The **"living space"** has a positive Impact on the price.
@@ -33,9 +33,9 @@ The **"number of rooms"** has a negative Impact on the price.
 
 ### Other Factors
 **"Balconies"** have a high positive impact on the price.
-**"Built in Kitchens"** have a high negative impact on the price.
+**"Built in Kitchens"** have a negative impact on the price.
 **"Floorplans"** have a negative impact on the price.
-**"Gardens"** have a positive impact on the price.
+**"Gardens"** have a negative impact on the price.
 
 ## Licensing, Authors, Acknowledgements
 I used the scraper from balzer82 [GitHub](http://insideairbnb.com/behind.html).
