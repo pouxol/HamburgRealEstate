@@ -36,6 +36,3 @@ The **"number of rooms"** has a negative Impact on the price.
 **"Built in Kitchens"** have a negative impact on the price.
 **"Floorplans"** have a negative impact on the price.
 **"Gardens"** have a negative impact on the price.
-
-## Licensing, Authors, Acknowledgements
-I used the scraper from balzer82 [GitHub](http://insideairbnb.com/behind.html).
